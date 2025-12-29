@@ -1,42 +1,4 @@
-# 🚀 Git vs GitHub: Complete Guide for Beginners
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
-</p>
-
-<p align="center">
-  <strong>A comprehensive guide to understanding Git and GitHub with practical commands</strong>
-</p>
-
----
-
-## 📋 Table of Contents
-- [🎯 Introduction](#-introduction)
-- [🤔 What is Git?](#-what-is-git)
-- [🌐 What is GitHub?](#-what-is-github)
-- [🔍 Key Differences](#-key-differences)
-- [⚡ Quick Start](#-quick-start)
-- [🛠️ Git Commands Cheat Sheet](#️-git-commands-cheat-sheet)
-- [🔄 GitHub Workflow](#-github-workflow)
-- [📊 Comparison Table](#-comparison-table)
-- [❓ FAQ](#-faq)
-- [📚 Resources](#-resources)
-
----
-
-## 🎯 Introduction
-
-Welcome! This guide explains the difference between **Git** (version control system) and **GitHub** (hosting platform) with practical examples.
-
-### 📺 Watch Our Tutorial
-[![YouTube Video](https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-video-link)
-
----
-
-## 🤔 What is Git?
-# 🚀 Git vs GitHub — Beginner's Guide
+# Git vs GitHub - Beginner's Guide
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -48,7 +10,7 @@ A concise, cleaned-up reference for Git (VCS) and GitHub (hosting) with practica
 
 ---
 
-## 📋 Quick Navigation
+## Quick Navigation
 - [Introduction](#introduction)
 - [What is Git?](#what-is-git)
 - [What is GitHub?](#what-is-github)
@@ -150,10 +112,10 @@ Repository operations
 git init
 
 # Clone remote repository (HTTPS)
-git clone https://github.com/user/repo.git
+git clone https://github.com/DersoMekuriaw/git-and-github.git
 
 # Clone via SSH
-git clone git@github.com:user/repo.git
+git clone git@github.com:DersoMekuriaw/git-and-github.git
 
 # Check status
 git status
@@ -298,6 +260,7 @@ Q: Common errors
 ---
 
 If you want, I can now:
+
 - Split this into multiple docs under a `docs/` folder and add `mkdocs.yml` for GitHub Pages (recommended).
 - Create a smaller, pinned `README.md` with links to detailed pages.
 
